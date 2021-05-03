@@ -1,6 +1,6 @@
 # [NixOS](http://nixos.org) black [SLiM](http://slim.berlios.de/) and [Tiny](https://github.com/off-world/lightdm-tiny-greeter) theme
 
-![preview](https://github.com/mbprtpmix/nixos-black-theme/raw/master/preview.png)
+![preview](https://raw.githubusercontent.com/mbprtpmix/nixos-black-theme/main/preview.png)
 
 # Usage
 
