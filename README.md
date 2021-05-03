@@ -30,7 +30,7 @@ Put the following snippets in your `configuration.nix`.
       enable = true;
       extraConfig = let
         black = import (builtins.fetchTarball {
-            url = "https://github.com/mbprtpmix/nixos-black-theme/archive/v1.1.1.tar.gz";
+            url = "https://github.com/mbprtpmix/nixos-black-theme/archive/v1.0.tar.gz";
             sha256 = "16qmz1c22arn614zfrfn9a6y7k091227ghvnm97xn8nvgd11hlhz";
         });
       in
